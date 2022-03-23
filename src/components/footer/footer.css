@@ -1,0 +1,125 @@
+
+
+.rectangle1 {
+  position: absolute;
+  width: 145px;
+  height: 164px;
+  left: 73px;
+  top: 500px;
+  
+  background: #EFF8FF;
+  border-radius: 9px;
+}
+.as {
+  position: absolute;
+  width: 66px;
+  height: 224px;
+  left: 0;
+  right: 245%;
+  top: -50px;
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 12px;
+
+  color: #000000;
+}
+.john{
+  position: absolute;
+width: 81px;
+height: 23px;
+left: 40px;
+top: 100px;
+text-align: center;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 15px;
+line-height: 22px;
+/* identical to box height */
+
+
+color: #000000;
+}
+.peter{
+  position: absolute;
+width: 76px;
+height: 76px;
+left: 1px;
+top: -100px;
+}
+
+.active{
+  position: absolute;
+width: 111px;
+height: 20px;
+left: 40px;
+top: 130px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 300;
+font-size: 13px;
+line-height: 20px;
+
+
+
+color: #ADADAD;
+
+}
+
+.rectangle2 {
+  position: absolute;
+  width: 145px;
+  height: 164px;
+  left: 200px;
+  top: 0px;
+  
+  background: #EFF8FF;
+  border-radius: 9px;
+}
+.alina{
+  position: absolute;
+width: 94px;
+height: 23px;
+left: 30px;
+top: 100px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 15px;
+line-height: 22px;
+
+
+
+color: #000000
+}
+.shmen{
+  position: absolute;
+width: 76px;
+height: 76px;
+left: 5px;
+top: -90px;
+
+}
+.active1{
+  position: absolute;
+width: 115px;
+height: 20px;
+left: 30px;
+top: 130px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 300;
+font-size: 13px;
+line-height: 20px;
+
+
+
+color: #ADADAD;
+}

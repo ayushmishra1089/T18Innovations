@@ -1,0 +1,202 @@
+.login {
+  position: absolute;
+  width: 500px;
+  height: 700px;
+  left: 805px;
+  top: 80px;
+
+  background: #ffffff;
+  box-shadow: 0px 4px 35px rgba(0, 0, 0, 0.08);
+  border-radius: 40px;
+}
+.input1 {
+  position: absolute;
+  width: 300px;
+  left: 20%;
+  right: 0%;
+  top: 38.04%;
+  bottom: 0%;
+
+  background: #ffffff;
+  border: 1px solid #4285f4;
+  box-sizing: border-box;
+  border-radius: 2px;
+}
+.input2 {
+  position: absolute;
+  width: 300px;
+  left: 20%;
+  right: 0%;
+  top: 60%;
+  bottom: 0%;
+
+  background: #ffffff;
+  border: 1px solid #adadad;
+  box-sizing: border-box;
+  border-radius: 2px;
+}
+.mail {
+  position: absolute;
+  left: 18%;
+  right: 32.15%;
+  top: 31%;
+  bottom: 76.09%;
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  /* identical to box height */
+
+  color: #000000;
+}
+.input3 {
+  position: absolute;
+  width: 451px;
+  height: 54px;
+  left: 8px;
+  top: 600px;
+
+  background: #0089ed;
+  box-shadow: 0px 4px 19px rgba(119, 147, 65, 0.3);
+  border-radius: 10px;
+}
+.sign {
+  position: absolute;
+  width: 183px;
+  height: 83px;
+  left: 40px;
+  top: 6px;
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 55px;
+  line-height: 82px;
+  /* identical to box height */
+
+  color: #000000;
+}
+.welcome {
+  position: absolute;
+  width: 201px;
+  height: 32px;
+  left: 40px;
+  top: 12px;
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 21px;
+  line-height: 32px;
+  /* identical to box height */
+
+  color: #000000;
+}
+.rectangle {
+  position: absolute;
+  width: 230px;
+  height: 50px;
+  left: 20px;
+  top: 140px;
+  text-align: center;
+
+  background: #e9f1ff;
+  border-radius: 9px;
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 30px;
+
+  color: #4285f4;
+}
+.google {
+  position: absolute;
+  left: 11.01%;
+  right: 19.24%;
+  top: 6px;
+  bottom: 50%;
+
+  background: #eb4335;
+}
+.account {
+  position: absolute;
+  width: 85px;
+  height: 40px;
+  left: 400px;
+  top: 12px;
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 13px;
+  line-height: 20px;
+
+  color: #8d8d8d;
+}
+mark {
+  color: #0089ed;
+  background-color: #e9f1ff;
+}
+.password {
+  position: absolute;
+  left: 18%;
+  right: 32.15%;
+  top: 53%;
+  bottom: 76.09%;
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+}
+.forgot {
+  position: absolute;
+  left: 59%;
+  right: 1%;
+  top: 61%;
+  bottom: 76.09%;
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 13px;
+  line-height: 20px;
+
+  color: #0089ed;
+}
+
+.img {
+  position: absolute;
+  left: 1%;
+  right: 19.24%;
+  top: 6.25%;
+  bottom: 58.65%;
+}
+
+.meta{
+  position: absolute;
+width: 55px;
+height: 50px;
+left: 300px;
+top: 156px;
+
+background: #e9f1ff;
+border-radius: 9px;
+
+}
+
+.apple{
+  position: absolute;
+  width: 55px;
+  height: 50px;
+  left: 400px;
+  top: 156px;
+  
+  background: #e9f1ff;
+  border-radius: 9px;
+}  
